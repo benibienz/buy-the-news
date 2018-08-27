@@ -11,5 +11,4 @@ binance_monitor = TwitterMonitor(
     sms=False
 )
 
-
 binance_monitor.main()

@@ -1,4 +1,3 @@
-# from common.monitors import TwitterMonitor
 from common.dicts import BINANCE_BTC_MARKETS_TWITTER
 from unittest import TestCase
 import ccxt

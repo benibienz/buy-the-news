@@ -3,7 +3,7 @@ import pickle
 import os
 import numpy as np
 from datetime import datetime
-from twython import Twython, TwythonError
+from twython import TwythonError
 
 
 def twitter_ts(created_at):
